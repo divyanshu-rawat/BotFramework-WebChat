@@ -14,7 +14,7 @@ This repo is part of the [Microsoft Bot Framework](https://github.com/microsoft/
 
 ## Upgrading to 4.6.0
 
-Starting from Web Chat 4.6.0, we requires React 16.8.6 or up.
+Starting from Web Chat 4.6.0, we require React 16.8.6 or up.
 
 Although we recommend that you upgrade your host app at your earliest convenience, we understand that host app may need some time before its React dependencies are updated, especially in regards to huge applications.
 
@@ -38,7 +38,7 @@ One of our team's favorite things about v4 of Web Chat is the ability to add cus
 
 -  Take a look at the implementation of sample [`01.c.getting-started-migration`](https://github.com/microsoft/BotFramework-WebChat/tree/master/samples/01.c.getting-started-migration). This is a great starting place to get Web Chat up and running.
 -  Next, please go through the [samples list](https://github.com/microsoft/BotFramework-WebChat/tree/master/samples) to compare your customization requirements to what Web Chat has already provided support for. These samples are made up of commonly asked-for features for Web Chat.
--  If one or more of your features is not available in the samples, please look through our [open and closed issues](https://github.com/microsoft/BotFramework-WebChat/issues?utf8=%E2%9C%93&q=is%3Aissue+), [Samples label](https://github.com/microsoft/BotFramework-WebChat/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3ASample), and the [Migration Support label](https://github.com/microsoft/BotFramework-WebChat/issues?q=is%3Aissue+migrate+label%3A%22Migration+Support%22) to search for sample requests and/or customization support for a feature you are looking for. Adding your comment to open issues will help the team prioritize requests that are in high demand, and we encourage participation in our community.
+-  If one or more of your features are not available in the samples, please look through our [open and closed issues](https://github.com/microsoft/BotFramework-WebChat/issues?utf8=%E2%9C%93&q=is%3Aissue+), [Samples label](https://github.com/microsoft/BotFramework-WebChat/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3ASample), and the [Migration Support label](https://github.com/microsoft/BotFramework-WebChat/issues?q=is%3Aissue+migrate+label%3A%22Migration+Support%22) to search for sample requests and/or customization support for a feature you are looking for. Adding your comment to open issues will help the team prioritize requests that are in high demand, and we encourage participation in our community.
 -  If you did not find your feature in the list of open requests, please feel free to [file your own request](https://github.com/microsoft/BotFramework-WebChat/issues/new). Just like the item above, other customers adding comments to your open issue will help us prioritize which features are most commonly needed across Web Chat users.
 -  Finally, if you need your feature as soon as possible, we welcome [pull requests](https://github.com/microsoft/BotFramework-WebChat/compare) to Web Chat. If you have the coding experience to implement the feature yourself, we would very much appreciate the additional support! Creating the feature yourself will mean that it is available for your use on Web Chat more quickly, and that other customers looking for the same or similar feature may utilize your contribution.
 -  Make sure to check out the rest of this `README` to learn more about v4.
